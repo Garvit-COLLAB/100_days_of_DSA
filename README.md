@@ -44,3 +44,4 @@ To build strong fundamentals in Data Structures and Algorithms.
 15. Diagonal Sum of Matrix
 16. Frequency counter for Array
 17. Maximum and Minimum Element in Array
+18. Rotate array by k position
